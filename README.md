@@ -1094,3 +1094,4 @@ Explore [`youtube_dl/utils.py`](https://github.com/ytdl-org/youtube-dl/blob/mast
 ##### Safely extract optional description from parsed JSON
 ```python
 description = try_get(
+```
