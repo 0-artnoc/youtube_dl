@@ -612,15 +612,15 @@ That's actually the output from your shell. Since ampersand is one of the specia
 
 For example if your URL is https://www.youtube.com/watch?t=4&v=BaW_jenozKc you should end up with following command:
 
-```youtube-dl 'https://www.youtube.com/watch?t=4&v=BaW_jenozKc'```
+`youtube-dl 'https://www.youtube.com/watch?t=4&v=BaW_jenozKc'`
 
 or
 
-```youtube-dl https://www.youtube.com/watch?t=4\&v=BaW_jenozKc```
+`youtube-dl https://www.youtube.com/watch?t=4\&v=BaW_jenozKc`
 
 For Windows you have to use the double quotes:
 
-```youtube-dl "https://www.youtube.com/watch?t=4&v=BaW_jenozKc"```
+`youtube-dl "https://www.youtube.com/watch?t=4&v=BaW_jenozKc"`
 
 ### ExtractorError: Could not find JS function u'OF'
 
